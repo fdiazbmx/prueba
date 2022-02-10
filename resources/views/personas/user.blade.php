@@ -16,9 +16,7 @@
           <div class="card-content">
               <button type="button" class="btn btn-success float-right" data-toggle="modal" data-target="#Registro_usu">
                 <i class="fas fa-plus"></i>
-                Nuevo Registro jonathan idaz
-                jonahan
-                jonathan
+                Nuevo Registro
               </button>                         
               <br>
               <br>
