@@ -18,6 +18,7 @@
                 <i class="fas fa-plus"></i>
                 Nuevo Registro jonathan idaz
                 jonahan
+                jonathan
               </button>                         
               <br>
               <br>
