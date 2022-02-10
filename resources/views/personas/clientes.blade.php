@@ -7,6 +7,7 @@
 @stop
 
 @section('content')
+
 <h1>Bienvenidos</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique dolores assumenda quaerat nihil, repellendus voluptatem ipsa, id voluptatibus neque a delectus error aut. Ad voluptatum voluptates delectus accusamus, quibusdam velit.</p>
 @stop
